@@ -45,6 +45,14 @@ A Christmas-themed web application that allows Santa to plan gift deliveries, tr
 - cors  
 
 ---
+## 🔐 Environment Variables
 
+Create a `.env` file in the root directory and add:
+
+```env
+PORT=3001
+WEATHER_API_URL=https://api.open-meteo.com/v1/forecast
+DEFAULT_LAT=9.9312
+DEFAULT_LNG=76.2673
 
 
