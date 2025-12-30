@@ -46,6 +46,5 @@ A Christmas-themed web application that allows Santa to plan gift deliveries, tr
 
 ---
 
-## 🚀 Installation & Setup
 
 
