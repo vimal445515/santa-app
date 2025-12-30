@@ -48,6 +48,4 @@ A Christmas-themed web application that allows Santa to plan gift deliveries, tr
 
 ## 🚀 Installation & Setup
 
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+
